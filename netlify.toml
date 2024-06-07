@@ -1,0 +1,3 @@
+[build]
+  command = "npm run build"  # Adjust this if you're using npm build script
+  publish = "./"
